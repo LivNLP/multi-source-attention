@@ -11,9 +11,9 @@
 
 **sorting_methods.py** --- choose best selection methods
 
-**att_model.py** --- domain attention model
+**att_model.py** --- train domain attention model
 
-**multi_processor.py** --- helper on multi-processing for attention model
+**multi_processor.py** --- helper method n multi-processing for attention model
 
 **evidence.py** --- generate evidences for label prediction
 
